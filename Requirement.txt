@@ -1,0 +1,7 @@
+Here’s a basic list of dependencies. Save this as `requirements.txt`:
+
+```txt
+pandas
+numpy
+scikit-learn
+plotly
